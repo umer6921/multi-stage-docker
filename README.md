@@ -1,4 +1,4 @@
-# Normail Image VS Multi-stage Image Size
+# Normal Image VS Multi-stage Image Size
 ![image](https://github.com/umer6921/multi-stage-docker/assets/75561123/08994332-714f-4cd0-95d9-e8e639854bd2)
 
 ![image](https://github.com/umer6921/multi-stage-docker/assets/75561123/555a374f-5d02-4996-9802-fd2b3db57f21)
